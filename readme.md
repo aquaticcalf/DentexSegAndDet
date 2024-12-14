@@ -53,6 +53,8 @@ This repository contains our algorithm for the [MICCAI  2023 Dentex challange](h
               ├── train2017
               └── val2017
   ```
+
+  dataset link on kaggle -> [dentex challenge 2023](https://www.kaggle.com/datasets/truthisneverlinear/dentex-challenge-2023)
 + Process:
 
   + prepare detection dataset  
